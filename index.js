@@ -1,4 +1,4 @@
 <script>
-    document.write('aaaaaaaaa')
+    document.write('bbb')
 </script>
 
